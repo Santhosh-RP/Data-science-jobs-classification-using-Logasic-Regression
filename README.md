@@ -13,4 +13,27 @@ Libaries used:
 
 Observations:
 
-![image](https://github.com/Santhosh-RP/Data-science-jobs-classification-using-Logasic-Regression/assets/109569208/b622aefe-0e49-48e2-ad86-cf4f65ba7b05)
+1. High-Demand Data Science Roles:
+* Data Scientist
+* Data Analyst
+* Business Analyst
+* Data Engineer
+2. Average Salaries for Data Science Roles:
+* High: ₹9.7 lakhs
+* Minimum: ₹1.4 lakhs
+3. Salary Ranges for Data Science Fields:
+* Maximum: ₹20 lakhs
+* Minimum: ₹10 lakhs
+4. Top 5 Companies Offering Data Science Jobs in India:
+* TCS (Tata Consultancy Services)
+* DELOITIE (Deloitte)
+* DST (Digital Science & Technology)
+* DXC TECHNOLOGY
+* MINDTREE
+5. Minimum Experience Required for Data Science Roles: 1 year
+6. Number of Employees in Top 5 Companies (according to the dataset):
+* TCS: 800 employees
+* ACCENTURE: 490 employees
+* IBM: 400 employees
+* COGNIZANT: 350 employees
+* CAPGEMINI: 380 employees
