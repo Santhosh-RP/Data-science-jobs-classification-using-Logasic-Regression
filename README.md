@@ -1,4 +1,4 @@
-# Data-science-jobs-classification-using-Logasic-Regression
+# Data-science-jobs-classification-using-Logastic-Regression
 ![image](https://github.com/Santhosh-RP/Data-science-jobs-classification-using-Logasic-Regression/assets/109569208/a0777117-6663-4e56-a98e-2d11f967ea47)
 
 
